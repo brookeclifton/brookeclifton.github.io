@@ -14,11 +14,10 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Sewing" },
+    { "name": "Music" },
+    { "name": "Yoga" },
+    { "name": "Recipe Development" }
   ],
   "skills": [
     {
@@ -32,12 +31,13 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
+        "ICS 314: Software Engineering","ICS 311: Algorithms","PHYS 152: Intro. to Physics II","PHYS 152L: Intro. to Physics II Lab", "ART 242: Intro. to Ceramics", "HAW 100: Language in Hawai'i: Global Issues"
       ]
     }
   ],
@@ -69,15 +69,16 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Girl Scouts of the USA",
+      "website": "http://www.girlscouts.org",
+      "position": "Girl Scout",
+      "startDate": "2010",
+      "endDate": "2023",
+      "summary": "Array of community service projects, increasing in complexity over 13 years.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Gold Award, Silver Award, and Bronze Award (See 'awards').",
+        "Homeless Outreach: Hosted an event to collect and distribute care packages for homeless people in our community.",
+        "Bronze Award"
       ]
     },
     {
@@ -96,16 +97,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Gold Award",
+      "date": "2023",
+      "awarder": "Girl Scouts of the USA",
+      "summary": "!!!!!"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Silver Award",
+      "date": "2019",
+      "awarder": "Girl Scouts of the USA",
+      "summary": "!!!!!!!"
     }
   ],
   "references": [
