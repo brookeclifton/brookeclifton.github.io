@@ -2,16 +2,20 @@
 layout: project
 type: project
 image: img/cotton/cotton-square.png
-title: "Cotton"
-date: 2014
+title: "Sewing for my New Nephew"
+date: 2025-05-01
 published: true
 labels:
-  - Lisp
-  - GitHub
-summary: "A text adventure game that I developed for ICS 313."
+  - Sewing
+summary: "The summer I learned to sew in order to have something special for my new nephew."
 ---
 
 <img class="img-fluid" src="../img/cotton/cotton-header.png">
+
+I am the youngest of four, with siblings ranging in ages 24 through 33 years old. Each year when a holiday came around, I knew that the best I could do would be to craft something for my siblings and parents. As I've gotten older, I've come to the realization that my family has no use for a hand drawn picture, even if they act like they love it.
+
+So, when I found out that my oldest brother Trent and his wife were expecting a baby boy, I was at a loss. What could I possibly give to my successful brother who could buy any baby gadget or outfit in the world? 
+
 
 Cotton is a horror-style text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
 
