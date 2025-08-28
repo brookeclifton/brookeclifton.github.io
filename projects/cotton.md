@@ -4,7 +4,7 @@ type: project
 image: img/cotton/cotton-square.png
 title: "Sewing for my New Nephew"
 date: 2025-05-01
-published: true
+published: false
 labels:
   - Sewing
 summary: "The summer I learned to sew in order to have something special for my new nephew."
