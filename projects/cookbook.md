@@ -13,6 +13,8 @@ labels:
 summary: "My digital recipe book for compiling my favorite and family recipies."
 ---
 
+<img class="img-fluid" src="../img/cotton/cotton-header.png">
+
 <div class="text-center p-4">
   <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
   <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
