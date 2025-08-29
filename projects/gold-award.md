@@ -27,7 +27,7 @@ This project focused on increasing safety in my community by ensuring that defib
 
 As the Gold Award is the penultimate independent goal of Girl Scout's, I was responsible for every aspect of this project, from budgeting, planning, pitching, initiating, finalizing, and finally pitching for the award itself. This project required project organizing, communication with people in leadership positions, reasearch, designing supporting materials, and management. Through this project, I developed my skills in all of these matters. I was able to develop a multi-step project that made a lasting impact on my community. Overall, leading an initiative which combined technical skill, social engagement, and problem solving gave me a new level of confidence and knowledge. 
 
-See my Gold Award certification here!
+See my Gold Award certification [here](https://www.credly.com/badges/5ff7f26f-015b-4bee-81ff-49906cef79d9/linked_in?t=t1of7j)!
 Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
