@@ -4,7 +4,7 @@ type: project
 image: img/vacay/vacay-square.png
 title: "Promoting Life-Saving Access: AED Awareness"
 date: 2023
-published: false
+published: true
 labels:
   - Javascript
   - Meteor
