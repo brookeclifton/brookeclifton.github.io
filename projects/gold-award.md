@@ -1,19 +1,23 @@
 ---
 layout: project
 type: project
-image: img/vacay/vacay-square.png
+image: img/aed.jpg
 title: "Promoting Life-Saving Access: AED Awareness"
 date: 2023
 published: true
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
+  - Community Service
+  - Research
+  - Leadership
+  - Advocacy
+  - Project Management
+  - Policy Influence
+  - Instructional Design
+  - Team Collaboration
 summary: "Leading a community initiative to ensure AEDs are accessible for after school programs."
 ---
 
-<img class="img-fluid" src="../img/vacay/vacay-home-page.png">
+<img class="img-fluid" src="../img/aed.jpg">
 
 For my Girl Scout Gold Award, I led a community initiative to advocate for acessible AEDs at schools hosting the local kids' soccer league and educated students on their proper use to improve emergency preparedness. 
 
