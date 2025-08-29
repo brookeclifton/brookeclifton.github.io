@@ -13,12 +13,12 @@ labels:
 summary: "My digital recipe book for compiling my favorite and family recipies."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/scones.jpg">
 
 <div class="text-center p-4">
   <img width="200px" src="../img/cookies.jpg" class="img-thumbnail" >
   <img width="200px" src="../img/cinnamon.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
+  <img width="200px" src="../img/couscous" class="img-thumbnail" >
 </div>
 
 "Cook Brooke's Cook Book" is a personal website I built on the platform Neocities, a website that lets you build your own sites from scratch using HTML, CSS, and JavaScript. 
