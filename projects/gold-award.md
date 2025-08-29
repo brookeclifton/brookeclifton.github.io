@@ -25,9 +25,8 @@ This project focused on increasing safety in my community by ensuring that defib
 
 This project required organizing, communication with people in leadership positions, reasearch, designing supporting materials, and ...
 
-
+See my Gold Award certification here!
 Here is some example code to illustrate Simple Schema use:
 
 {% gist 9defa1fb3f4eb593ba5fa9eacedca960 %}
  
-Source: <a href="https://github.com/theVacay/vacay">theVacay/vacay</a>
