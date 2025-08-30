@@ -44,27 +44,27 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "Tutor",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2022-09-20",
+      "endDate": "2023-01-01",
+      "summary": "Tutoring for two students in Math, Science, and English.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Teach middleschool level Math, Science, and English.",
+        "Help expand on concepts introduced in class with context about future lessons to come."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "Babysitter",
+      "website": "",
+      "startDate": "2021-10-01",
+      "endDate": "2023-05-01",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Babysat ages ranging from one to six.",
+        "Helped resolve conflict, encourage good developmental practices."
       ]
     }
   ],
@@ -82,19 +82,6 @@
         "Dog Shelter Care Packages: Made recycled dog toys and beds for dogs in the local shelter.",
         "Old Age Home Community Service: Provided company, support, and entertainment to the elderly."
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
     }
   ],
   "awards": [
@@ -102,13 +89,13 @@
       "title": "Gold Award",
       "date": "2023",
       "awarder": "Girl Scouts of the USA",
-      "summary": "!!!!!"
+      "summary": "For my Girl Scout Gold Award, I led an initiative to make AEDs accessible at schools hosting the local kids’ soccer league and taught students how to use them. I petitioned administrators to place unlocked AEDs near fields, created educational materials, and managed all aspects of the project, building skills in leadership, communication, and community impact."
     },
     {
       "title": "Silver Award",
       "date": "2019",
       "awarder": "Girl Scouts of the USA",
-      "summary": "!!!!!!!"
+      "summary": "For my Girl Scout Silver Award, I installed a Little Free Library at a neighborhood bus stop near the elementary school to promote reading, sharing, and community connection. I organized the project from planning through fundraising, installation, and encouraging families and students to exchange books."
     }
   ],
   "references": [
