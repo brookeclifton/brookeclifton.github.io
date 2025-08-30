@@ -4,7 +4,7 @@ type: project
 image: img/micromouse/micromouse-square.jpg
 title: "Cook Brooke's Cook Book"
 date: 2025
-published: true
+published: false
 labels:
   - Cooking
   - CSS
