@@ -4,7 +4,7 @@ type: project
 image: img/scones.jpg
 title: "Cook Brooke's Cook Book"
 date: 2025
-published: false
+published: true
 labels:
   - Cooking
   - CSS
