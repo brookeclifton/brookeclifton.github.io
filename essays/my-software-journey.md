@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "My Software Journey"
+title: "A Future in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-08-27
 published: true
