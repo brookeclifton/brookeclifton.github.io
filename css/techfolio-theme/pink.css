@@ -8,7 +8,7 @@
   --tf-green1: #4a5759;
   --tf-green2: #b0c4b1;
   --tf-green3: #dedbd2;
-  --tf-green4: #e0f2df;
+  --tf-pink4: #edafb8;
   --bs-font-sans-serif: "Open Sans", sans-serif;
   --bs-link-color: var(--tf-green1);
   --tf-pill-bg: var(--tf-green3);
@@ -26,7 +26,7 @@ h1,h2,h3,h4,h5 {
 /* Format social media icons */
 .tf-social {
   display: inline-block;
-  fill: var(--tf-green2);
+  fill: var(--tf-pink4);
   height: 1.5em;
   vertical-align: -.1em;
   width: 1.5em;
@@ -53,6 +53,6 @@ a {
 
 /* Simplify the styling of the bottom of Essay cards. */
 .card-footer {
-  background-color: var(--bs-white);
+  background-color: var(--tf-pink);
   border-top: none;
 }
