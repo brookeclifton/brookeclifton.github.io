@@ -31,35 +31,4 @@ This was my first time working in both HTML and CSS, but after doing a few cours
 
 Take a look at my cookbook: [Cook Brooke's Cook Book](https://brooke-hana.neocities.org/)
 
-Here is an example of one of my HTML files
-```cpp
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Baguette</title>
-    <link href="/style.css" rel="stylesheet" type="text/css" media="all">
-    <link rel="icon" type="image/x-icon" href="/icon.jpeg">
-  </head>
-  <div class="text-container">
-  <body>
-    <h1>Baguette:</h1>
-    <h2>ingredients:</h2>
-    <ul>
-      <li>1 1/2 cup (225g) <i>flour</i></li>
-      <li>1 tsp <i>salt</i></li>
-      <li>1 tsp <i>instant yeast</i></li>
-      <li>3/4 cup <i>warm water</i></li>
-    </ul>
-    <h2>directions:</h2>
-    <p>mix until well combined. cover and let rise for <i>90 minutes</i>. fold all the corners in, then separate into two and form into baguettes by holding both ends and shaking.</p>
-    <p>grab bottom edge and wrap over the top of the baguette to create smooth surface. dust with flour. cover with towel and let rise for <i>30 minutes</i>.</p>
-    <p>preheat oven to <i>445º F</i> with a tray of water inside. make three slashes, then bake for <i>30 minutes</i>.</p>
-    <button onclick="history.back()">back</button>
-  </body>
-  <div class="text-container">
-</html>
-```
-
-
+See my [github repo](https://github.com/brookeclifton/cookbook)
