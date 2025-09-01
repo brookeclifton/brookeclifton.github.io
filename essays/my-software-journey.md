@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+<img width="100px" class="rounded float-start pe-4" src="../img/brain.jpg">
 
 My interest in software engineering comes from a desire to see how technology can blend creativity with functionality. While I am still in early stages of exploring the concept, I have been drawn to designing websites using languages like HTML and CSS. For example, currently I have an ongoing project designing a digital cookbook. This project was what made me realize that perhaps my artistic side could give me an advantage in this field where I have usually found myself feeling inferior. For three years, I wrote project after project, not fully understanding why we were doing what we were doing. This project was what showed me that I can build things that are incredibly functional to me in my personal life. 
 
