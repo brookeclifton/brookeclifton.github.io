@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/scones.jpg
+image: img/paints.jpg
 title: "Teaching Myself to Sew"
 date: 2025
 published: true
@@ -12,12 +12,12 @@ labels:
 summary: "Teaching myself how to sew from trial and error."
 ---
 
-<img class="img-fluid" src="../img/salad.jpg">
+<img class="img-fluid" src="../img/machine.jpg">
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/cookies.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/cinnamon.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/couscous.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/overalls.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/paints.jpg" class="img-thumbnail" >
+  <img width="200px" src="../img/dress.jpg" class="img-thumbnail" >
 </div>
 
 If you would have told me when I was 12 that I would grow up to be so proud to be just like my grandmother, I would've had doubts. She was hard on us as kids and I never took the time to understand her while she was around. Now however, it is abundantly clear I take after her more and more as time goes on.
