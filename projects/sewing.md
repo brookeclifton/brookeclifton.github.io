@@ -12,7 +12,7 @@ labels:
 summary: "Teaching myself how to sew from trial and error."
 ---
 
-<img class="img-fluid" src="../img/machine.jpg">
+
 
 <div class="text-center p-4">
   <img width="200px" src="../img/overalls.jpg" class="img-thumbnail" >
