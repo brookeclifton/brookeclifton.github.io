@@ -100,13 +100,13 @@
     {
       "title": "Manoa Dean's List",
       "date": "2023-2025",
-      "awarder": University of Hawai'i at Manoa;
+      "awarder": "University of Hawai'i at Manoa";
       "summary": "Fall 2023, Spring 2024, and Spring 2025";
     },
     {
       "title": "Academic Merit Scholarship",
       "date": "2023-2024",
-      "awarder": University of Hawai'i at Manoa;
+      "awarder": "University of Hawai'i at Manoa";
       "summary": "Fall 2023 - present";
     }
   ],
