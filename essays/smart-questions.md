@@ -18,7 +18,7 @@ Software engineering is not only about writing code, it is also about problem so
 
 ## A smart question on Stack Overflow
 
-The Stack Overflow question we will focus on is about an [AWS certificate manager](http://www.catb.org/esr/faqs/smart-questions.html). This question exhibits several characteristics of a smart question.
+The Stack Overflow question we will focus on is about an [AWS certificate manager](https://stackoverflow.com/questions/79759395/aws-certificate-manager-dns-validation-failed-with-hostinger-domain-caa-error). This question exhibits several characteristics of a smart question.
 
 ### Clear Title and Context
 
