@@ -50,4 +50,9 @@ A question that does not follow the smart question guidelines might look like th
 *"My AWS certificate isn't working. Help!"*
 
 This question fails on all counts:
-1. 
+1. Lacks Context
+2. No evidence of Research
+3. No technical Detail
+4. Overly Broad
+5. No Politeness or Structure
+
