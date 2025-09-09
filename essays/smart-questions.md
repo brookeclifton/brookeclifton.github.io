@@ -47,4 +47,7 @@ As a result of this, responses can be focused and high-quality, relfecting the r
 
 A question that does not follow the smart question guidelines might look like this:
 
-*"My AWS certificate isn't working. Help!"
+*"My AWS certificate isn't working. Help!"*
+
+This question fails on all counts:
+1. 
