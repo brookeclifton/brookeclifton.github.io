@@ -66,4 +66,4 @@ Coming up with a smart wuestion forces the asker to understand their problem dee
 
 ## Conclusion
 
-Smart questions demonstrate preparation, clarity, and respect for others. The Stack Overflow question about AWS ACM DNS validation is an excellent example, fulfilling Raymond's criteria for smart questions. In contrast, vague, contextless questions impose extra effort on responders and often fail to get solutions. This exercise highlights a critical insight: the act of asking good questions is 
+Smart questions demonstrate preparation, clarity, and respect for others. The Stack Overflow question about AWS ACM DNS validation is an excellent example, fulfilling Raymond's criteria for smart questions. In contrast, vague, contextless questions impose extra effort on responders and often fail to get solutions. This exercise highlights a critical insight: the act of asking good questions is one of the most crucial skills in software engineering.  
