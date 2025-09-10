@@ -18,42 +18,42 @@ Software engineering is not only about writing code, it is also about problem so
 
 ## A smart question on Stack Overflow
 
-The Stack Overflow question we will focus on is about an [AWS certificate manager](https://stackoverflow.com/questions/79759395/aws-certificate-manager-dns-validation-failed-with-hostinger-domain-caa-error). This question exhibits several characteristics of a smart question.
+The Stack Overflow question we will focus on is about an [Function templates leave out debug lines](https://stackoverflow.com/questions/79759365/function-templates-leave-out-debug-lines). This question exhibits several characteristics of a smart question.
 
 ### Clear Title and Context
 
-The title immediately communicates the problem domain (AWS Certificate Manager, DNS validation) and the specific error (CAA error with Hostinger domain). A responder can anticipate the context without even clicking on the post.
+The title immediately communicates the core issue: function templates in C++ are behaving irregularly regarding debug lines. A responder can anticipate the context without even clicking on the post.
 
 ### Demonstration of Prior Research and Effort
 
-The question references the AWS documentation on DNS validation, the CAA settings, and their past attempts to solve the issue. This mirrors the advice of Raymond in showing what you have already tried, which shows responders that you are engaged and prevents them from telling you to do something you've already done.
+The question shows that the poster attempted integrating debug logging and observed inconsistent results. The inclusion of code snippets and examples signal a prior effort. This mirrors the advice of Raymond in showing what you have already tried, which shows responders that you are engaged and prevents them from telling you to do something you've already done.
 
-### Concise and Relevant Technical Detail
+### Focused Technical Detail
 
-The question asked provides the exact DNS records, error messages, and platform details. This satisfies the "show the problem, don't ask for a tutorial" principle. 
+The question asked provides specific code examples, like template functions with their debug lines. This follows the principle of providing minimal, complete, verifiable examples.  
 
-### Focused and Specific Problem Statement
+### Narrow and Specific Problem Statement
 
-The question is narror, seeking to understand why validation fails in Hostinger's CAA configuration. There are no other inquiries, and nothing vague like "it doesn't work".
+The question is narrow, seeking to understand the function templates. There are no other inquiries, nothing unrelated, and nothing vague like "it doesn't work".
 
-### Polite and Considerate
+### Polite and Professional Tone
 
-The tone is professional, factual, and structured, reflecting the "smartness" expected in these community interactions.
+The writing is factual and structured, which shows respect for the community. 
 
-As a result of this, responses can be focused and high-quality, relfecting the reciprocal smartness that smart questions require from the community.
+As a result of this, responses can be focused and high-quality, relfecting the reciprocal smartness that smart questions require from the community. Because of this well thought out question, the asker has already recieved 2 good responses. 
 
 ## A Poorly Formulated Question
 
 A question that does not follow the smart question guidelines might look like this:
 
-*"My AWS certificate isn't working. Help!"*
+*"My debug prints don't show up in C++. Why?"*
 
 This question fails on all counts:
-1. Lacks Context
+1. Lacks context
 2. No evidence of Research
-3. No technical Detail
-4. Overly Broad
-5. No Politeness or Structure
+3. No technical detail
+4. Overly broad
+5. No politeness or structure
 
 ## Importance of Smart Questions
 
@@ -65,4 +65,4 @@ Coming up with a smart wuestion forces the asker to understand their problem dee
 
 ## Conclusion
 
-Smart questions demonstrate preparation, clarity, and respect for others. The Stack Overflow question about AWS ACM DNS validation is an excellent example, fulfilling Raymond's criteria for smart questions. In contrast, vague, contextless questions impose extra effort on responders and often fail to get solutions. This exercise highlights a critical insight: the act of asking good questions is one of the most crucial skills in software engineering.  
+Smart questions demonstrate preparation, clarity, and respect for others. The Stack Overflow question about debug statements in C++ is an excellent example, fulfilling Raymond's criteria for smart questions. In contrast, vague, contextless questions impose extra effort on responders and often fail to get solutions. This exercise highlights a critical insight: the act of asking good questions is one of the most crucial skills in software engineering.  
