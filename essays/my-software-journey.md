@@ -8,7 +8,7 @@ published: true
 labels:
   - Software Engineering
   - Learning
-  - Efficiency
+  - Creativity
 ---
 
 <img width="100px" class="rounded float-start pe-4" src="../img/brain.jpg">
