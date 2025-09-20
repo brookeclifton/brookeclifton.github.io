@@ -12,7 +12,7 @@ labels:
   - Reflections
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/typescript.png">
+<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
 
 ## Anticipation
 
