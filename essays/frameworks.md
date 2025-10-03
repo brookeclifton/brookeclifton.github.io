@@ -12,7 +12,7 @@ labels:
   - Creativity
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/aritzia.png">
+<img height="300px" class="rounded float-start pe-4" src="../img/aritziasite.png"><img height="300px" class="rounded float-start pe-4" src="../img/aritzia.png">
 
 At first glance, UI frameworks like Bootstrap 5 can feel like a foreign language. The class names seem like gibberish, yet, that initial confusion transforms into intuition with practice. The more you experiment, the more these keywords become a good tools, letting you implement design ideas quickly.
 
