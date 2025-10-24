@@ -18,7 +18,7 @@ summary: "Leading a community initiative to ensure AEDs are accessible for after
 ---
 
 <div class="text-center p-4">
-<img class="img-fluid" src="../img/aed.jpg">
+<img class="img-fluid" src="../img/aed.jpg" width="200px">
 </div>
 
 For my Girl Scout Gold Award, I led a community initiative to advocate for acessible AEDs at schools hosting the local kids' soccer league and educated students on their proper use to improve emergency preparedness. 
