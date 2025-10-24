@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/paints.jpg
+image: img/sewing.jpg
 title: "Teaching Myself to Sew"
 date: 2025
 published: true
