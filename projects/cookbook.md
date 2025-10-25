@@ -13,7 +13,7 @@ labels:
 summary: "My digital recipe book for compiling my favorite and family recipies."
 ---
 
-<img class="img-fluid" src="../img/salad.jpg">
+<!-- <img class="img-fluid" src="../img/salad.jpg"> -->
 
 <div class="text-center p-4">
   <img width="200px" src="../img/cookies.jpg" class="img-thumbnail" >
