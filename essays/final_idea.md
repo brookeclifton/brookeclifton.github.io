@@ -12,7 +12,7 @@ labels:
   - Github
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="200px" class="rounded float-start pe-4" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh6yY9qOzTdObrr21OMoy9FXtS88tPP_obow&s">
 
 ## Overview
 
