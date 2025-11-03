@@ -12,7 +12,7 @@ labels:
   - Github
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
+<img width="200px" class="rounded float-start pe-4" src="https://junehomes.com/blog/wp-content/uploads/2023/03/searching@2x-100-1024x768.webp">
 
 ## Overview
 
