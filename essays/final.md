@@ -1,9 +1,9 @@
 ---
 layout: essay
 type: essay
-title: "Final Project Idea"
+title: "Final Project Proposal: RoomMatch UHM"
 date: 2025-11-04
-published: false
+published: true
 labels:
   - Software Engineering
   - Nextjs
@@ -17,7 +17,7 @@ labels:
 ## Overview
 
 Finding a compatible roommate in Honolulu can be a frustrating experience for UH Mānoa students. Many turn to Facebook groups, Craigslist, or word of mouth, which often results in mismatched expectations, safety concerns, or scams. Students who are new to the island or moving between leases face added stress trying to secure affordable housing and trustworthy roommates.
-RoomMatch UHM aims to provide a safer and more efficient way for UH Mānoa students to find housing and compatible roommates. The platform connects students based on verified UH accounts, lifestyle compatibility, and shared housing preferences. By using matching algorithms and built-in verification, RoomMatch UHM reduces uncertainty and helps students form reliable living arrangements in a safe, student-centered environment.
+<strong>RoomMatch UHM</strong> aims to provide a safer and more efficient way for UH Mānoa students to find housing and compatible roommates. The platform connects students based on verified UH accounts, lifestyle compatibility, and shared housing preferences. By using matching algorithms and built-in verification, RoomMatch UHM reduces uncertainty and helps students form reliable living arrangements in a safe, student-centered environment.
 
 ## Names of the proposers
 
