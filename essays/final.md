@@ -34,4 +34,9 @@ Some envisioned mockup pages for this project include:
 
 ## Use case ideas
 
+A new user logs in with their UH email, completes their profile and survey, and instantly receives a list of potential roommates ranked by compatibility. The student can browse listings, message a potential match, and schedule a meeting in a safe public space. After the move-in period, both roommates can leave mutual feedback to help maintain a transparent and trustworthy system. Administrators can review and verify listings, manage reports, and ensure compliance with the platform’s community standards.
+
 ## Beyond the basics
+
+After implementing the basic functionality, RoomMatch UHM could expand to include advanced features such as a map-based search tool displaying walking and bus commute times to campus, a “split rent” cost calculator, and an optional “roommate agreement” template for establishing shared responsibilities. Additional upgrades could include smart reminders for lease renewals, fraud detection tools, and conflict mediation resources for roommates.
+RoomMatch UHM addresses a persistent problem in the student community—safe and compatible housing—while fostering a sense of trust, transparency, and campus connection.
