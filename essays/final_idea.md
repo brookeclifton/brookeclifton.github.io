@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "Final Project Brainstorm"
 date: 2025-11-04
-published: false
+published: true
 labels:
   - Software Engineering
   - Nextjs
