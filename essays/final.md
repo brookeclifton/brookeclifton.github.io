@@ -20,6 +20,8 @@ RoomMatch UHM aims to provide a safer and more efficient way for UH Mānoa stude
 
 ## Names of the proposers
 
+Lara Miyakawa Ho, Brooke Clifton, Harrison Gray
+
 ## Mockup page ideas
 
 Some envisioned mockup pages for this project include:
