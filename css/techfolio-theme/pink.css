@@ -12,7 +12,7 @@
   --tf-blue2: #313e50;
   --tf-blue3: #7c91a2;
   --tf-blue4: #e6eaf0;
-  --bs-font-sans-serif: "Noto Sans", "Space Mono", "Rubik", sans-serif;
+  --bs-font-sans-serif: "Noto+Sans", "Space Mono", "Rubik", sans-serif;
   --bs-link-color: var(--tf-blue1);
   --tf-pill-bg: var(--tf-blue3);
   --tf-icon-fill: var(--tf-blue1);
@@ -24,7 +24,7 @@
 
 h1,h2,h3,h4,h5 {
   color: var(--tf-blue1);
-  font-family: "Noto Sans", "Space Mono", "Rubik", sans-serif;
+  font-family: "Noto+Sans", "Space Mono", "Rubik", sans-serif;
 }
 
 /* Format social media icons */
