@@ -82,6 +82,17 @@
         "Dog Shelter Care Packages: Made recycled dog toys and beds for dogs in the local shelter.",
         "Old Age Home Community Service: Provided company, support, and entertainment to the elderly."
       ]
+    },
+    {
+      "organization": "Calabasas High School",
+      "website": "https://www.calabasashigh.net/",
+      "position": "Technology Helper",
+      "startDate": "2021",
+      "endDate": "2023",
+      "summary": "Helping seniors use technology.",
+      "highlights": [
+        "On duty at the local library biweekly to help seniors with technology issues."
+      ]
     }
   ],
   "awards": [
