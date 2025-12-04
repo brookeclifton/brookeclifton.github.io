@@ -19,7 +19,7 @@ Software engineering is not only about writing code, it is also about problem so
 
 ## A smart question on Stack Overflow
 
-The Stack Overflow question we will focus on is about a [function template leaving out debug lines](https://stackoverflow.com/questions/79759365/function-templates-leave-out-debug-lines). This question exhibits several characteristics of a smart question.
+The Stack Overflow question we will focus on is titled: [Function templates leave out debug lines](https://stackoverflow.com/questions/79759365/function-templates-leave-out-debug-lines). This question exhibits several characteristics of a smart question.
 
 ### Clear Title and Context
 
