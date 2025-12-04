@@ -9,7 +9,7 @@ labels:
   - ESLint
   - VSCode
   - Coding Standards
-  - Reflections
+  - Collaboration 
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="../img/eslint.png">
@@ -27,4 +27,7 @@ Considering my most recent ICS class relied heavily on VI in the terminal, error
 
 At first, attempting to eliminate all ESLint errors may feel overwhelming because there tend to be many. However, I have noticed that they are all small adjustments, and they actually help me to code more efficiently. I can focus on the larger logic of the program, knowing that the tools will enforce the small rules. I am no longer wasting time on running the code and having it fail, but instead I can see every place where it may fail along the way, and I have an opportunity to fix it.
 
-In conclusion, ESLint and VSCode demonstrate how coding standards, when combined with modern tools, can transform the coding experience. What should feel like nitpicking is in reality a guided helper tool that helps me to improve my efficiency and clarity. They allow me to code smarter, not harder. 
+## Fitting the Mold
+Additionally, coding standards fix an issue that I've noticed every time I'm collaborating with another software engineer. We tend to all have slightly different styles and preferences in terms of indentations and spacing, which makes it difficult for someone to look at another's code and immediately understand. Using ESLint allows us to all use the exact same style, with little room for deviation. This increased readability makes group work much more efficient.
+
+In conclusion, ESLint and VSCode demonstrate how coding standards, when combined with modern tools, can transform the coding experience. What should feel like nitpicking is in reality a guided helper tool that helps me to improve my efficiency and clarity. They allow me to be a more organized and collaboration-ready coder. 
