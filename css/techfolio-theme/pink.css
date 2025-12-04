@@ -1,7 +1,7 @@
 /* Pink Theme: modifies the default theme to use pink in various places. */
 
 /* Use Open Sans as the default font. */
-@import url("https://fonts.googleapis.com/css2?family=Noto Sans");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans");
 
 /* See https://getbootstrap.com/docs/5.2/customize/css-variables/#root-variables for variables to override. */
 :root {
