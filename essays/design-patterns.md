@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "The Hidden Structure of Software"
-date: 2025-11-04
+date: 2025-12-03
 published: true
 labels:
   - Design Patterns
