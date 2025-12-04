@@ -10,7 +10,7 @@ labels:
   - React
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="../img/patterns.png">
+<img width="200px" class="rounded" src="../img/patterns.png">
 
 
 ## What to Know About Design Patterns
