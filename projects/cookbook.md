@@ -21,7 +21,7 @@ summary: "My digital recipe book for compiling my favorite and family recipies."
   <img width="200px" src="../img/couscous.jpg" class="img-thumbnail" >
 </div>
 
-"Cook Brooke's Cook Book" is a personal website I built on the platform Neocities, a website that lets you build your own sites from scratch using HTML, CSS, and JavaScript. 
+"Cook Brooke's Cook Book" is a personal website I built from scratch using HTML, CSS, and JavaScript. 
 
 I began building this as a solution to a problem I faced frequently in my personal life. Anyone who loves to cook knows the struggles of digital recipes. While the immense variety of any particular recipe on the internet is impressive, it becomes exhausting when trying to pick one to use. I find myself not able to decide on one of the hundreds of options, and once I pick, I can never find the same recipe again. Additionally, I, like many others, find it inexplicably frustrating when I have to scroll through the life story of the chef, on a page full of advertisments, before I can just see the ingredient list. All this coupled with the fact that almost all of my favorite family recipes are printed on tiny index cards, dirty from years of use, I knew it was time to figure out my own solution.
 
