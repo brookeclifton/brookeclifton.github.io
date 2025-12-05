@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Creativity with Frameworks"
+title: "The Broader Lesson of Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-05
 published: true
