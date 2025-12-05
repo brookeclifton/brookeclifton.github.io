@@ -12,7 +12,7 @@ labels:
   - Configuration Management
 ---
 
-<img height="300px" class="rounded float-start pe-4" src="../img/react.png"><img height="300px" class="rounded float-start pe-4" src="../img/vscode.jpg"><img height="300px" class="rounded float-start pe-4" src="../img/github.png">
+<img height="100px" class="rounded float-start pe-4" src="../img/react.png"><img height="100px" class="rounded float-start pe-4" src="../img/vscode.jpg"><img height="100px" class="rounded float-start pe-4" src="../img/github.png">
 
 
 Throughout this course, I've come to understand that software engineering is much broader than simply building a website. The web stack we used, involving React, Next.js, Bootstrap, GitHub, and VS Code, served as a vehicle for learning foundational princples that can apply to any project. 
