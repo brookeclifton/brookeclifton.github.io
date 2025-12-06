@@ -4,7 +4,7 @@ type: essay
 title: "AI in Software Engineering"
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-06
-published: false
+published: true
 labels:
   - Reflection
   - Artificial Intelligence
