@@ -10,7 +10,7 @@ labels:
   - Artificial Intelligence
 ---
 
-<img height="100px" class="rounded float-start pe-4" src="../img/react.png"><img height="100px" class="rounded float-start pe-4" src="../img/vscode.jpg"><img height="100px" class="rounded float-start pe-4" src="../img/github.png">
+<img height="100px" class="rounded float-start pe-4" src="../img/chat.png"><img height="100px" class="rounded float-start pe-4" src="../img/copilot.png"><img height="100px" class="rounded float-start pe-4" src="../img/gemini.png">
 
 
 ## Introduction
