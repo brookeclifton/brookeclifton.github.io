@@ -1,8 +1,9 @@
 ---
 layout: project
 type: project
+image: img/roommates.png
 title: "Final Project Proposal: RoomMatch UHM"
-date: 2025-11-04
+date: 2025
 published: true
 labels:
   - Software Engineering
@@ -10,6 +11,7 @@ labels:
   - React
   - Bootstrap
   - Github
+summary: "Help UH students find compatible roommates."
 ---
 
 <img width="200px" class="rounded float-start pe-4" src="https://junehomes.com/blog/wp-content/uploads/2023/03/searching@2x-100-1024x768.webp">
