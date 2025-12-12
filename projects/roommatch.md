@@ -46,27 +46,27 @@ Most importantly, I learned how critical communication and organization are when
 
 ## Source Code
 
-View our GitHub organization repository here:
-[github.com/roommatch-uhm](https://github.com/roommatch-uhm )
+View our GitHub organization repository here:  
+[github.com/roommatch-uhm](https://github.com/roommatch-uhm )  
 This repository contains the full source code, issue history, and project documentation.
 
 ## Landing Page
 
-<img width="800px" src="../img/landing.png">
+<img width="800px" style="display: block; margin: 0 auto;" src="../img/landing.png">
 
 ## Create Profile
 
-<img width="800px" src="../img/createprofile.png">
+<img width="800px" style="display: block; margin: 0 auto;" src="../img/createprofile.png">
 
 ## Match Listings Page
 
-<img width="800px" src="../img/listings.png">
+<img width="800px" style="display: block; margin: 0 auto;" src="../img/listings.png">
 
 ## Messaging Page
 
-<img width="800px" src="../img/message.png">
+<img width="800px" style="display: block; margin: 0 auto;" src="../img/message.png">
 
 ## Meetings Page
 
-<img width="800px" src="../img/meeting.png">
+<img width="800px" style="display: block; margin: 0 auto;" src="../img/meeting.png">
 
