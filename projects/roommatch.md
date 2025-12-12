@@ -4,7 +4,7 @@ type: project
 image: img/roommatch.png
 title: "RoomMatch UHM"
 date: 2025
-published: false
+published: true
 labels:
   - Software Engineering
   - Nextjs
@@ -47,7 +47,7 @@ Most importantly, I learned how critical communication and organization are when
 ## Source Code
 
 View our GitHub organization repository here:
-https://github.com/roommatch-uhm 
+[github.com/roommatch-uhm](https://github.com/roommatch-uhm )
 This repository contains the full source code, issue history, and project documentation.
 
 ## Browse Listings Page
