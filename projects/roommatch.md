@@ -14,7 +14,7 @@ labels:
 summary: "Our implemented final project: RoomMatchUHM. Helping UH Manoa students find compatible roommates."
 ---
 
-<img width="200px" class="rounded float-start pe-4" src="./logo.png">
+<img width="400px" class="rounded float-start pe-4" src="../img/logo.png"">
 
 ## Project Overview
 
