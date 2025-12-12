@@ -14,7 +14,7 @@ labels:
 summary: "Our implemented final project: RoomMatchUHM. Helping UH Manoa students find compatible roommates."
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/logo.png"">
+<img width="400px" class="rounded float-start pe-4" src="../img/logo.png">
 
 ## Project Overview
 
@@ -52,21 +52,21 @@ This repository contains the full source code, issue history, and project docume
 
 ## Landing Page
 
-<img src="../img/landing.png">
+<img width="800px" src="../img/landing.png">
 
 ## Create Profile
 
-<img src="../img/createprofile.png">
+<img width="800px" src="../img/createprofile.png">
 
 ## Match Listings Page
 
-<img src="../img/listings.png">
+<img width="800px" src="../img/listings.png">
 
 ## Messaging Page
 
-<img src="../img/message.png">
+<img width="800px" src="../img/message.png">
 
 ## Meetings Page
 
-<img src="../img/meeting.png">
+<img width="800px" src="../img/meeting.png">
 
