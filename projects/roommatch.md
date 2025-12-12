@@ -18,7 +18,7 @@ summary: "Our implemented final project: RoomMatchUHM. Helping UH Manoa students
 
 ## Project Overview
 
-<strong>RoomMatch UHM</strong> is a web application designed to help Univeristy of Hawai'i at Manoa students find compatible roommates. The platform allows users to create detailed profiles, browse their matches, view compatibility scores, and communicate directly with potential roommates through an integrated chat system. The goal of the project was to apply software engineering principles learned in class to a real-world problem while working collaboratively in a team environment.
+<strong>[RoomMatch UHM](https://roommatch-uhm-v1-pmogt97u1-roommatch-uhm.vercel.app/)</strong> is a web application designed to help Univeristy of Hawai'i at Manoa students find compatible roommates. The platform allows users to create detailed profiles, browse their matches, view compatibility scores, and communicate directly with potential roommates through an integrated chat system. The goal of the project was to apply software engineering principles learned in class to a real-world problem while working collaboratively in a team environment.
 
 The application was built using Next.js, React, Bootstrap, Prisma, and PostgreSQL, with deployment handled through Vercel.
 
