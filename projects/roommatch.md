@@ -50,9 +50,15 @@ View our GitHub organization repository here:
 [github.com/roommatch-uhm](https://github.com/roommatch-uhm )
 This repository contains the full source code, issue history, and project documentation.
 
-## Browse Listings Page
+## Create Profile
 
-## User Profile
+<img src="../img/createprofile.png">
 
-##
+## Match Listings Page
+
+<img src="../img/listings.png">
+
+## Messaging Page
+
+<img src="../img/message.png">
 
