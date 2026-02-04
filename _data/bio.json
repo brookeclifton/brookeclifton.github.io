@@ -23,11 +23,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "HTML", "CSS", "TypeScript", "C", "C++", "Java", "Javascript", "Python", "Node", "NextJS", "React" ]
+      "keywords": [ "HTML", "CSS", "TypeScript", "C", "C++", "Java", "Javascript", "Python", "Go", "Node", "NextJS", "React" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "Figma", "PostgreSQL", "Git/GitHub", "MacOS", "Ubuntu" ]
+      "keywords": [ "Maya", "Figma", "PostgreSQL", "Git/GitHub", "MacOS", "Ubuntu" ]
     }
   ],
   "education": [
@@ -38,7 +38,7 @@
       "startDate": "2023-08-21",
       "endDate": "Present",
       "courses": [
-        "ICS 212: Program Structure", "ICS 311: Algorithms", "ICS 314: Software Engineering", "ICS 321: Database Systems", "ICS 369: Computational Media Systems", "ICS 488: Digital Content Creation"
+        "ICS 488: 3D Rendering Techniques", "ICS 434: Data Science Fundamentals", "ICS 369: Computational Media Systems", "ICS 321: Database Systems I", "MATH 372: Probability and Statistics", "GEO 151: Geography and Contemporary Society"
       ]
     }
   ],
