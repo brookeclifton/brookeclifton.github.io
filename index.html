@@ -1,8 +1,246 @@
----
-title: Home
-layout: home
----
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Brooke Clifton · XR & 3D Developer</title>
+  <meta name="description" content="Portfolio of Brooke Clifton: immersive, ocean-inspired XR and 3D work from Honolulu.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=Inter+Tight:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <script type="importmap">
+    {
+      "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+      }
+    }
+  </script>
+</head>
+<body>
+  <nav class="nav">
+    <a class="nav-name" href="#top">Brooke Clifton</a>
+    <div class="nav-links">
+      <a href="#work">Work</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
 
-{% include about/about.html %}
-{% include projects/projects.html limit=4 %}
-{% include essays/essays.html limit=6 %}
+  <!-- HERO: scroll-driven flight over Lēʻahi. One .step per camera keyframe in js/hero.js -->
+  <section id="top" class="hero">
+    <div class="hero-stage">
+      <canvas id="hero-canvas" aria-hidden="true"></canvas>
+      <div class="hero-shade"></div>
+      <div class="loader"><span>Rendering Lēʻahi…</span></div>
+    </div>
+
+    <div class="hero-steps">
+      <div class="step step-intro">
+        <div class="panel">
+          <p class="kicker">XR &amp; 3D Developer · Honolulu, Hawaiʻi</p>
+          <h1>Brooke<br><em>Clifton</em></h1>
+          <p class="lede">
+            University of Hawaiʻi at Mānoa<br>
+            <span>Bachelor's of Science in Information and Computer Science · Creative Computational Media</span><br>
+            <span>Certificate of Data Science</span>
+          </p>
+          <span class="scroll-cue">Scroll to fly in</span>
+        </div>
+      </div>
+      <div class="step step-left">
+        <div class="panel">
+          <p class="kicker">01 · Home</p>
+          <h2>Life at the foot of <em>Lēʻahi</em></h2>
+          <p>The mountains, the ocean, and the culture shape what I want to build.</p>
+        </div>
+      </div>
+      <div class="step step-right">
+        <div class="panel">
+          <p class="kicker">02 · Craft</p>
+          <h2>Computer science, <em>in three dimensions</em></h2>
+          <p>Exceptional grades in courses such as: Virtual and Augmented Reality, 3D Modeling and Animation, Computer Graphics, Data Visualization, and Computational Media Systems.</p>
+        </div>
+      </div>
+      <div class="step step-left">
+        <div class="panel">
+          <p class="kicker">03 · Focus</p>
+          <h2>Most of my work <em>starts in the ocean</em></h2>
+          <p>Reefs, marine life, stories from the ocean, and the feeling of being underwater, brought to people who can't be there.</p>
+        </div>
+      </div>
+      <div class="step step-right"><div class="panel panel-quiet"><p class="kicker">Descending</p></div></div>
+      <div class="step step-right"><div class="panel panel-quiet"><p class="kicker">Hold your breath</p></div></div>
+      <div class="step step-center">
+        <div class="panel">
+          <h2>Dive into <em>my work</em></h2>
+          <a class="scroll-cue" href="#work">Keep scrolling</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <section id="work" class="work">
+      <header class="section-head">
+        <p class="kicker">Selected work</p>
+        <h2>Worlds you can <em>step into</em></h2>
+        <p>Explore each project right here in your browser. No headset needed.</p>
+      </header>
+
+      <!--
+        PROJECT TEMPLATE
+        data-viewer   "swimthru", "stereo" or "cave": which interactive viewer to embed
+        data-model    optional .glb to show instead of the placeholder scene (stereo viewer)
+        data-unity    optional path to a Unity WebGL build's index.html (adds "Play in browser")
+        data-video    optional trailer .mp4 (adds "Watch trailer")
+      -->
+      <article class="project" id="swimthru" data-unity="" data-video="">
+        <div class="viewer" data-viewer="swimthru"></div>
+        <div class="project-info">
+          <p class="project-num">01</p>
+          <h3>SwimThru <em>(stereoscopic reef)</em></h3>
+          <ul class="chips">
+            <li>Stereoscopic LED wall</li>
+            <li>Unity 6 · URP</li>
+            <li>Xbox controller</li>
+          </ul>
+          <p>A swimmable Hawaiian reef for the 6-meter stereoscopic LED wall in UH's Laboratory for Advanced Visualization &amp; Applications (LAVA). Visitors swim through the reef, aim at sea life to read cards with Hawaiian, common, and scientific names, and play a recipe game, gathering ingredients from the reef for traditional creations like lei pūpū, luheʻe, and leiomano.</p>
+          <ul class="highlights">
+            <li>Comfort-first swimming for a shared audience: water-like inertia, no roll, auto-leveling pitch</li>
+            <li>Info cards and selection ring placed in world space at comfortable stereo depth</li>
+            <li>Procedural reef builder: spur-and-groove seafloor, flocking fish schools, animated caustics</li>
+            <li>Custom URP shaders for fish swimming, light shafts, marine snow, and the water surface</li>
+          </ul>
+          <dl class="meta">
+            <div><dt>Role</dt><dd>Sole developer</dd></div>
+            <div><dt>Built with</dt><dd>Unity 6 · C# · HLSL · CyberCANOE stereo</dd></div>
+            <div><dt>Year</dt><dd>2026</dd></div>
+          </dl>
+          <div class="actions"></div>
+          <details class="credits">
+            <summary>Model credits</summary>
+            <p>Shown in this preview, from Sketchfab:</p>
+            <ul>
+              <li>“CC0 ハタタテダイ 🐠 Pennant Coralfish” by <a href="https://sketchfab.com/ffishAsia-and-floraZia" target="_blank" rel="noopener">ffish.asia / floraZia.com</a>, CC0</li>
+              <li>“Cone snail shell” by <a href="https://sketchfab.com/TouchstonesRochdale" target="_blank" rel="noopener">Touchstones Rochdale</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></li>
+              <li>“Cowrie Shell” by <a href="https://sketchfab.com/RISDNaturelab" target="_blank" rel="noopener">RISD Nature Lab</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></li>
+              <li>“kelapa ijo (green coconut)” by <a href="https://sketchfab.com/rw_ajii" target="_blank" rel="noopener">RWA</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></li>
+              <li>“Branch of Driftwood” by <a href="https://sketchfab.com/arkify" target="_blank" rel="noopener">Arkify 3D</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></li>
+              <li>“Pahoehoe lava rock” by <a href="https://sketchfab.com/geotadamswa" target="_blank" rel="noopener">geotadamswa</a>, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></li>
+              <li>“CC0 キハダ 🐟 Yellowfin Tuna, Thunnus albacares” by <a href="https://sketchfab.com/ffishAsia-and-floraZia" target="_blank" rel="noopener">ffish.asia / floraZia.com</a>, CC0</li>
+              <li>“Snail: Conus marmoreus (PRI 76850)” by <a href="https://sketchfab.com/DigitalAtlasOfAncientLife" target="_blank" rel="noopener">Digital Atlas of Ancient Life</a>, CC0</li>
+            </ul>
+            <p>Stereo rendering: CC_CANOE by Jason Leigh, LAVA.</p>
+          </details>
+        </div>
+      </article>
+
+      <!-- Placeholder: remove `hidden` to show it again -->
+      <article class="project project-flip" hidden data-unity="" data-video="">
+        <div class="viewer" data-viewer="stereo" data-model=""></div>
+        <div class="project-info">
+          <p class="project-num">02</p>
+          <h3>Project Title <em>(stereo + VR)</em></h3>
+          <ul class="chips">
+            <li>Stereoscopic display</li>
+            <li>VR headset</li>
+            <li>Unity</li>
+          </ul>
+          <p>One or two sentences about the experience: what it is, who it's for, and what it feels like to be inside it. The placeholder scene is a bioluminescent jellyfish field.</p>
+          <dl class="meta">
+            <div><dt>Role</dt><dd>Developer</dd></div>
+            <div><dt>Built with</dt><dd>Unity · C# · XR Interaction Toolkit</dd></div>
+            <div><dt>Year</dt><dd>2026</dd></div>
+          </dl>
+          <div class="actions"></div>
+        </div>
+      </article>
+
+      <!-- Placeholder: remove `hidden` to show it again -->
+      <article class="project" hidden data-unity="" data-video="">
+        <div class="viewer" data-viewer="cave"></div>
+        <div class="project-info">
+          <p class="project-num">03</p>
+          <h3>Project Title <em>(projection room)</em></h3>
+          <ul class="chips">
+            <li>Four-wall CAVE</li>
+            <li>Headset version in progress</li>
+          </ul>
+          <p>Describe the room-scale experience here. The viewer shows the room from outside; each wall is a live render of the world from the center, just like the real projectors. Press <strong>Step inside</strong> to stand where a visitor would.</p>
+          <dl class="meta">
+            <div><dt>Role</dt><dd>Developer</dd></div>
+            <div><dt>Built with</dt><dd>Unity · Multi-display projection</dd></div>
+            <div><dt>Year</dt><dd>2026</dd></div>
+          </dl>
+          <div class="actions"></div>
+        </div>
+      </article>
+
+      <article class="project project-flip" id="renovation" data-no-actions>
+        <div class="viewer" data-viewer="renovation"></div>
+        <div class="project-info">
+          <p class="project-num">02</p>
+          <h3>Renovation Walkthrough <em>(VR)</em></h3>
+          <ul class="chips">
+            <li>Meta Quest</li>
+            <li>Room-scale VR</li>
+            <li>Design visualization</li>
+          </ul>
+          <p>A true-scale VR model of a client's bathroom renovation, built from their drawings before construction. In the headset, the client could walk around their future space and flip between design options with the controller, to see how each choice would feel in the actual room.</p>
+          <ul class="highlights">
+            <li>Five switchable options combining tile schemes and vanities, swapped on the same meshes so the baked lighting stays valid</li>
+            <li>Real product textures for the tile, vanity, and pebble floor</li>
+            <li>Whole room generated by an editor tool from dimension constants, so design changes rebuild in one click</li>
+          </ul>
+          <dl class="meta">
+            <div><dt>Role</dt><dd>Sole developer</dd></div>
+            <div><dt>Built with</dt><dd>Unity 6 · C# · Meta XR SDK · OpenXR</dd></div>
+            <div><dt>Year</dt><dd>2026</dd></div>
+          </dl>
+          <div class="actions"></div>
+        </div>
+      </article>
+    </section>
+
+    <section id="about" class="about">
+      <div class="about-text">
+        <p class="kicker">About</p>
+        <h2>Making <em>immersive</em>, interesting environments with code</h2>
+        <p>I'm a computer science student in Honolulu, interested in where the code disappears and something interesting takes shape. I use XR and computer graphics as a tool to pursue my interests in the ocean, making the wonders of the world accessible to everybody, and making the world a better place.</p>
+      </div>
+      <div class="about-skills">
+        <h3>Toolkit</h3>
+        <ul class="skill-list">
+          <li><span>Engines</span>Unity · Blender · Maya · Three.js · WebXR</li>
+          <li><span>Languages</span>C · C# · C++ · JavaScript · Python · TypeScript · GLSL · Lisp · Go · Java · SQL</li>
+          <li><span>Hardware</span>Meta Quest · Stereoscopic 3D displays · CAVE</li>
+        </ul>
+      </div>
+    </section>
+
+    <section id="contact" class="contact">
+      <p class="kicker">Contact</p>
+      <h2>Let's build something <em>immersive</em></h2>
+      <div class="contact-links">
+        <a href="mailto:brookeclifton9605@gmail.com">Email</a>
+        <a href="https://github.com/brookeclifton" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://www.linkedin.com/in/brookeclifton/" target="_blank" rel="noopener">LinkedIn</a>
+        <a href="assets/resume.pdf">Resume</a>
+      </div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Built with Three.js · <a href="https://sketchfab.com/3d-models/diamond-head-honolulu-oahu-hawaii-770557872fce4e7381af7ba341b6b279" target="_blank" rel="noopener">Diamond Head model</a> by Nate Loper, <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a></p>
+  </footer>
+
+  <dialog class="media-modal">
+    <button class="modal-close" type="button" aria-label="Close">×</button>
+    <div class="modal-body"></div>
+  </dialog>
+
+  <script type="module" src="js/main.js"></script>
+</body>
+</html>
